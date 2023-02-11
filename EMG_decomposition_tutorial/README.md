@@ -1,4 +1,4 @@
-# BMEF20 Decomposition Tutorial
+# BMEN30 Decomposition Tutorial
 You can run this tutorial on Google colab (you will need a Google account) or on your local computer (if you have Python/Jupyter installed). It is probably most convinient to run this using Google colab.
 ## Instructions
 Download the .mat files to your local computer. (click on each of the .mat files and after that click on the download button, DO NOT RIGHT-CLICK ON THE FILE AND USE "SAVE LINK AS...") .If you are running this on Google colab you need to upload these files to run the tutorial.
