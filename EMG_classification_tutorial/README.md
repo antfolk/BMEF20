@@ -1,4 +1,4 @@
-# BMEF20 EMG classification tutorial
+# BMEN30 EMG classification tutorial
 You can run this tutorial on Google colab (you will need a Google account) or on your local computer (if you have Python/Jupyter installed). It is probably most convinient to run this using Google colab.
 ## Instructions
 Download the .mat files to your local computer. (click on the signals.mat file and after that click on the download button, DO NOT RIGHT-CLICK ON THE FILE AND USE "SAVE LINK AS...")
