@@ -6,3 +6,4 @@ If you are running this on Google colab you need to upload these files to run th
 After that click on BMEN30_EMG_classification_tutorial.ipynb and after that you can click on the open in Colab icon. Run the tutorial. When you are done, write some comments on this tutorial in the last cell of the notebook, after that download the notebook as .ipynb and hand it in using Canvas.
 
 Good luck!
+ 
